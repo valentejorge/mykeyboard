@@ -1,15 +1,15 @@
-# Gambiarra keyboard layout 
+# My keyboard layout 
 
-Gambiarra is a abnt2 brazilian keyboard layout with some mods.
+is a abnt2 brazilian keyboard layout with some mods.
 
-![alt text](https://github.com/jotavev/gambiarra_keyboard/blob/1164500244b2b2b1e38e5b4e1f4d87dfc0ed388f/gambiarra.png)
+![alt text](https://github.com/jotavev/gambiarra_keyboard/blob/1164500244b2b2b1e38e5b4e1f4d87dfc0ed388f/mykeyboard.png)
 
 this is not a final version, but...
 ___
 ### Install
 ```
 $ cd
-$ git clone https://github.com/jotavev/gambiarra_keyboard/
+$ git clone https://github.com/jotavev/mykeyboard/
 $ cd gambiarra_keyboard/
 $ sudo cp jotav /usr/share/X11/xkb/symbols/
 ```
