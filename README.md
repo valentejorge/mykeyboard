@@ -10,8 +10,8 @@ ___
 ```
 $ cd
 $ git clone https://github.com/jotavev/mykeyboard/
-$ cd gambiarra_keyboard/
-$ sudo cp jotav /usr/share/X11/xkb/symbols/
+$ cd mykeyboard/
+$ sudo cp mykeyboard /usr/share/X11/xkb/symbols/
 ```
 Add the new layout declaration to ```/usr/share/X11/xkb/rules/evdev.xml```
 ```
