@@ -18,10 +18,10 @@ Add the new layout declaration to ```/usr/share/X11/xkb/rules/evdev.xml```
 ...
     <layout>
       <configItem>
-        <name>jotav</name>
+        <name>mykeyboard</name>
 
         <shortDescription>jv</shortDescription>
-        <description>abnt2_gambiarra</description>
+        <description>mykeyboard</description>
         <languageList>
           <iso639Id>por</iso639Id>
         </languageList>
