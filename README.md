@@ -20,7 +20,7 @@ Add the new layout declaration to ```/usr/share/X11/xkb/rules/evdev.xml```
       <configItem>
         <name>mykeyboard</name>
 
-        <shortDescription>jv</shortDescription>
+        <shortDescription>mykb</shortDescription>
         <description>mykeyboard</description>
         <languageList>
           <iso639Id>por</iso639Id>
