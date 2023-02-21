@@ -4,12 +4,11 @@ is a abnt2 brazilian keyboard layout with some mods.
 
 ![alt text](https://github.com/jotavev/gambiarra_keyboard/blob/1164500244b2b2b1e38e5b4e1f4d87dfc0ed388f/mykeyboard.png)
 
-this is not a final version, but...
 ___
 ### Install
 ```
 $ cd
-$ git clone https://github.com/jotavev/mykeyboard/
+$ git clone https://github.com/valentejorge/mykeyboard/
 $ cd mykeyboard/
 $ sudo cp mykeyboard /usr/share/X11/xkb/symbols/
 ```
