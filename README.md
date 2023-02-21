@@ -2,7 +2,7 @@
 
 is a abnt2 brazilian keyboard layout with some mods.
 
-![alt text](https://github.com/jotavev/mykeyboard/blob/main/image.png)
+![keyboard image](https://github.com/valentejorge/mykeyboard/blob/main/image.jpg)
 
 ___
 ### Install
