@@ -2,7 +2,7 @@
 
 is a abnt2 brazilian keyboard layout with some mods.
 
-![alt text](https://github.com/jotavev/gambiarra_keyboard/blob/1164500244b2b2b1e38e5b4e1f4d87dfc0ed388f/mykeyboard.png)
+![alt text](https://github.com/jotavev/mykeyboard/blob/main/image.png)
 
 ___
 ### Install
@@ -17,10 +17,10 @@ Add the new layout declaration to ```/usr/share/X11/xkb/rules/evdev.xml```
 ...
     <layout>
       <configItem>
-        <name>jotav</name>
+        <name>mykeyboard</name>
 
-        <shortDescription>jv</shortDescription>
-        <description>abnt2_gambiarra</description>
+        <shortDescription>mykb</shortDescription>
+        <description>mykeyboard</description>
         <languageList>
           <iso639Id>por</iso639Id>
         </languageList>
