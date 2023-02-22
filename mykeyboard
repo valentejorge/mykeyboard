@@ -29,8 +29,8 @@ xkb_symbols "abnt2_gambiarra" {
     key <AD06>	{ [         y,          Y,    leftarrow,          yen ]	};
     key <AD07>	{ [         u,          U,    parenleft,      uparrow ]	};
     key <AD08>	{ [         i,          I,   parenright,     idotless ]	};
-    key <AD09>	{ [         o,          O,       oslash,     Ooblique ]	};
-    key <AD10>	{ [         p,          P,        thorn,        THORN ]	};
+    key <AD09>	{ [         o,          O,    braceleft,     Ooblique ]	};
+    key <AD10>	{ [         p,          P,   braceright,        THORN ]	};
 
     key <AD11> { [   dead_acute,     dead_grave,         acute,           grave ] };
     key <AD12> { [  bracketleft,      braceleft,   ordfeminine,     dead_macron ] };
@@ -40,8 +40,8 @@ xkb_symbols "abnt2_gambiarra" {
     // middle keys
     key <AC01>	{ [         a,          A,           ae,           AE ]	};
     key <AC02>	{ [         s,          S,       ssharp,      section ]	};
-    key <AC03>	{ [         d,          D,          eth,          ETH ]	};
-    key <AC04>	{ [         f,          F,    BackSpace,  ordfeminine ]	};
+    key <AC03>	{ [         d,          D,    BackSpace,          ETH ]	};
+    key <AC04>	{ [         f,          F,       Return,  ordfeminine ]	};
     key <AC05>	{ [         g,          G,    braceletf,          ENG ]	};
     key <AC06>	{ [         h,          H,   braceright,      Hstroke ]	};
     key <AC07>	{ [         j,          J,       Return,    dead_horn ] };
