@@ -59,6 +59,7 @@ xkb_symbols "abnt2_gambiarra" {
     key <LSGT> { [    backslash,            bar,     masculine,      dead_breve ] };
     key <AB01> { [            z,              Z,     backslash,             bar ] };
     key <AB03> { [            c,              C,      ccedilla,        Ccedilla ] };
+    key <AB06> { [            n,              N,      Greek_nu,        Greek_NU ] };
     key <AB07> { [            m,              M,            mu,              mu ] };
     key <AB10> { [    semicolon,          colon, dead_belowdot,   dead_abovedot ] };
 
