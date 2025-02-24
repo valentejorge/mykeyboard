@@ -1,5 +1,5 @@
 default
-xkb_symbols "abnt2_gambiarra" {
+xkb_symbols "mykeyboard" {
 
     // Based on a very simple Brazilian ABNT2 keyboard,
     // by Ricardo Y. Igarashi (iga@that.com.br).
@@ -7,7 +7,7 @@ xkb_symbols "abnt2_gambiarra" {
     // by Conectiva  (http://www.conectiva.com.br).
 
     include "latin"
-    name[Group1]="Gambiarra";
+    name[Group1]="mykeyboard";
 
     key <TLDE> { [   apostrophe,       quotedbl,       notsign,         notsign ] };
     key <AE02> { [            2,             at,   twosuperior,         onehalf ] };
